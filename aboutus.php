@@ -128,7 +128,7 @@ else {
 
     <div class="paragraph1">
       <h1>OUR TEAM</h1>
-      <h3><p>Food Exploria was founded in 2017. We care about quality, craft and disciplined experimentation. We are active contributors to open source software.</p><p> We help innovate, develop and pioneer. </p></h3>
+      <h3><p>Food Exploria was founded in 2020. We care about quality, craft and disciplined experimentation. We are active contributors to open source software.</p><p> We help innovate, develop and pioneer. </p></h3>
     </div>
 
     <div class="col-xs-12 line"><hr></div>

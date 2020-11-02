@@ -67,6 +67,7 @@ header('Location: managerlogin.php'); // Redirecting To Home Page
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#"><span class="glyphicon glyphicon-user"></span> Welcome <?php echo $login_session; ?> </a></li>
             <li class="active"> <a href="managerlogin.php">MANAGER CONTROL PANEL</a></li>
+	    <li><a href="https://marketnalys1s.herokuapp.com/"><span class="glyphicon glyphicon-eye-open"></span> Visualize Orders</a></li>
             <li><a href="logout_m.php"><span class="glyphicon glyphicon-log-out"></span> Log Out </a></li>
           </ul>
         </div>
@@ -190,7 +191,8 @@ if (mysqli_num_rows($result) > 0)
 
   <footer class="container-fluid bg-4 text-center">
   <br>
-  <p> Food Exploria 2017 | &copy All Rights Reserved </p>
+  <p> Food Exploria 2020 | &copy All Rights Reserved </p>
+  <p> Creator Kaustubh Singh </p>
   <br>
   </footer>
 </html>

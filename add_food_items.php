@@ -51,6 +51,7 @@ header('Location: managerlogin.php'); // Redirecting To Home Page
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
+	    <li><a href="https://marketnalys1s.herokuapp.com/"><span class="glyphicon glyphicon-eye-open"></span> Visualize Orders</a></li>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
@@ -67,6 +68,7 @@ header('Location: managerlogin.php'); // Redirecting To Home Page
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#"><span class="glyphicon glyphicon-user"></span> Welcome <?php echo $login_session; ?> </a></li>
             <li class="active"> <a href="managerlogin.php">MANAGER CONTROL PANEL</a></li>
+	    <li><a href="https://marketnalys1s.herokuapp.com/"><span class="glyphicon glyphicon-eye-open"></span> Visualize Orders</a></li>
             <li><a href="logout_m.php"><span class="glyphicon glyphicon-log-out"></span> Log Out </a></li>
           </ul>
         </div>
@@ -144,7 +146,8 @@ header('Location: managerlogin.php'); // Redirecting To Home Page
 
   <footer class="container-fluid bg-4 text-center">
   <br>
-  <p> Food Exploria 2017 | &copy All Rights Reserved </p>
+  <p> Food Exploria 2020 | &copy All Rights Reserved </p>
+  <p> Creator Kaustubh Singh </p>
   <br>
   </footer>
 </html>

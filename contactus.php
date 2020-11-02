@@ -191,6 +191,7 @@ else {
   <footer class="container-fluid bg-4 text-center">
   <br>
   <p> Food Exploria 2020 | &copy All Rights Reserved </p>
+  <p> Creator Kaustubh Singh </p>
   <br>
   </footer>
 </html>

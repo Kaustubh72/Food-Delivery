@@ -70,6 +70,7 @@ if (!$success){
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
+	    <li><a href="https://marketnalys1s.herokuapp.com/"><span class="glyphicon glyphicon-eye-open"></span> Visualize Orders</a></li>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
